@@ -18,12 +18,14 @@ Download trhe repot and compile the module place on your Arduino and let er rip.
 Below you will find, images of the schematics, wiring diagram and the Shield image in the repo also providing the PCB files,  I use `Osh Park` . https://oshpark.com/
 
 
-![Schematic Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_schematic.jpg "Scematic Diagram")
+## Schematic Diagram
+![Schematic Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_schematic.jpg "Schematic Diagram")
+
+![Wiring Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_wiring.jpg "Wiring Diagram")
 
 
 # TODO:  Add wiring diagram here.
 
-# TODO add schematic
 
 # TODO:  Add PCB Shield files.
 
