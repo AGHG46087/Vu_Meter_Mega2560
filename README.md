@@ -21,7 +21,7 @@ A few other general hardware items,
 Download trhe repot and compile the module place on your Arduino and let er rip.
 Below you will find, images of the schematics, wiring diagram and the Shield image in the repo also providing the PCB files,  
 
-I use `*Osh Park*` . https://oshpark.com/ . They are reasonable and they cool, and not too mention rather than the standard green or the new common red,  these guys do things in Purple and looks great.
+I use *`Osh Park`* . https://oshpark.com/ . They are reasonable and they cool, and not too mention rather than the standard green or the new common red,  these guys do things in Purple and looks great.
 
 
 ## Schematic Diagram
