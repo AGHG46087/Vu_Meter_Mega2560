@@ -1,6 +1,10 @@
 # Vu_Meter_Mega2560
 ## Arduino Mega2560 ws2812 reactive visualizer 
 
+
+# TODO:  Add PCB Shield files.
+
+
 This project provides mutliple set of visualizations for your viewing enjoyment.  you will need a series of RGB based LEDs.  I used a series of WS2812 neopixels (60), however you may use others if you like and ensure you update the LED_TYPE to accomodate the the setup.
 
 To get this up and running:
@@ -15,7 +19,9 @@ A few other general hardware items,
 * fix_fft
 
 Download trhe repot and compile the module place on your Arduino and let er rip.
-Below you will find, images of the schematics, wiring diagram and the Shield image in the repo also providing the PCB files,  I use `Osh Park` . https://oshpark.com/
+Below you will find, images of the schematics, wiring diagram and the Shield image in the repo also providing the PCB files,  
+
+I use `*Osh Park*` . https://oshpark.com/ . They are reasonable and they cool, and not too mention rather than the standard green or the new common red,  these guys do things in Purple and looks great.
 
 
 ## Schematic Diagram
@@ -28,8 +34,5 @@ Below you will find, images of the schematics, wiring diagram and the Shield ima
 ## Shield Diagram
 ![Shield Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_shield.jpg "Shield Diagram")
 
-
-
-# TODO:  Add PCB Shield files.
 
  
