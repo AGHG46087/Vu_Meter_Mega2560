@@ -21,10 +21,13 @@ Below you will find, images of the schematics, wiring diagram and the Shield ima
 ## Schematic Diagram
 ![Schematic Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_schematic.jpg "Schematic Diagram")
 
+
+## Wiring Diagram
 ![Wiring Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_wiring.jpg "Wiring Diagram")
 
+## Shield Diagram
+![Shield Diagram](https://github.com/AGHG46087/Vu_Meter_Mega2560/blob/master/vu_shield.jpg "Shield Diagram")
 
-# TODO:  Add wiring diagram here.
 
 
 # TODO:  Add PCB Shield files.
